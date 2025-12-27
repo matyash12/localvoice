@@ -7,6 +7,10 @@ Paste text, generate speech, and export audio files directly on your Mac.
 
 No unnecessary features. Just text to speech.
 
+<p align="center">
+  <img src="example_screenshot" width="800" />
+</p>
+
 ---
 
 ## What It Does
