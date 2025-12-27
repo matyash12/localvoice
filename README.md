@@ -59,7 +59,7 @@ TextToSpeechMac is built as a native macOS app, not a web wrapper.
 
 **Download TextToSpeechMac for macOS**
 
-👉 **Download for macOS**
+👉 **[Download for macOS](https://github.com/matyash12/texttospeechmac/releases/download/APP/texttospeech.zip)**
 
 No signup required.  
 Download and run.
