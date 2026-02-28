@@ -1,83 +1,89 @@
-## TextToSpeechMac
-### Simple Text-to-Speech for macOS
+# LocalVoice – Offline AI Text to Speech for Mac
 
-**TextToSpeechMac** is a native macOS app that converts written text into spoken audio.
+LocalVoice is a powerful offline AI voice engine that runs entirely on your Mac.  
+No cloud. No subscriptions. No data leaving your device.
 
-Paste text, generate speech, and export audio files directly on your Mac.
-
-No unnecessary features. Just text to speech.
-
-<p align="center">
-  <img src="example_screenshot.png" width="800" />
-</p>
+Generate natural, expressive speech from text with advanced voice control and rapid voice cloning — fully local.
 
 ---
 
-## What It Does
+## 🚀 Features
 
-TextToSpeechMac turns text into audio you can listen to or export.
+### 🎙 Voice Cloning
+Generate speech in the style of a reference voice using a short audio sample.  
+Quickly create a custom voice from a few seconds of audio.
 
-- Paste or type text
-- Generate spoken audio
-- Use it for listening, proofreading, or accessibility
-- Designed specifically for macOS
+### 🧠 Describe the Speaker
+Control how the voice sounds by describing the speaker:
+- Tone
+- Age
+- Gender
+- Mood
+- Accent
+- Style
 
----
+Example:
+> “A calm British male narrator in his 40s, deep voice, confident and cinematic.”
 
-## Core Features
+### 🔒 Fully Offline Processing
+All voice generation runs locally on your Mac.  
+No internet connection required.  
+Your data never leaves your device.
 
-- Text-to-speech conversion on macOS
-- Simple, native macOS interface
-- Paste or type any text
-- Generate audio from text
-- Export generated speech for later use
-- No account required
+### 🎧 High-Quality AI Speech
+Natural, expressive, studio-level voice output suitable for professional use.
 
----
-
-## Common Use Cases
-
-- Listening to long articles or documents
-- Proofreading written text
-- Accessibility and reading support
-- Creating spoken versions of notes or scripts
-- Offline or distraction-free listening workflows
-
----
-
-## Designed for macOS
-
-TextToSpeechMac is built as a native macOS app, not a web wrapper.
-
-- Fast startup
-- Keyboard-friendly
-- Works naturally with macOS workflows
+### 📁 Export Audio
+Export generated speech to WAV format for:
+- Videos
+- Podcasts
+- Games
+- Apps
+- Content creation
 
 ---
 
-## Download
+## 💻 How It Works
 
-**Download TextToSpeechMac for macOS**
+1. Enter your text.
+2. (Optional) Upload a short voice sample for cloning.
+3. Describe how the speaker should sound.
+4. Generate speech.
+5. Export to WAV.
 
-👉 **[Download for macOS](https://github.com/matyash12/texttospeechmac/releases/download/APP/texttospeech.zip)**
-
-No signup required.  
-Download and run.
-
----
-
-## Roadmap
-
-Planned features (not guaranteed):
-
-- More voice options
-- Audio format improvements
-- Performance optimizations
+Everything runs locally.
 
 ---
 
-## Contact
+## 🛡 Privacy First
 
-Questions, feedback, or bug reports:
+- No accounts
+- No tracking
+- No cloud processing
+- No subscriptions
 
-**matyashajek@proton.me**
+LocalVoice is a complete AI voice studio — directly on your Mac.
+
+---
+
+## 📦 Use Cases
+
+- YouTube narration
+- Podcast production
+- Game character voices
+- Audiobooks
+- Accessibility
+- Rapid voice prototyping
+
+---
+
+## 📥 Installation
+
+Download the latest release and run the app on macOS.  
+Apple Silicon recommended for best performance.
+
+---
+
+Local voice generation.  
+Zero cloud.  
+Full control.
